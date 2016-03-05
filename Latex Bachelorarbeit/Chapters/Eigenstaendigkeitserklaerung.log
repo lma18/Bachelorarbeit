@@ -1,0 +1,681 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.24)  15 JAN 2016 17:18
+entering extended mode
+**Eigenstaendigkeitserklaerung.tex
+(Eigenstaendigkeitserklaerung.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+! Undefined control sequence.
+l.1 \Large
+          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \textsf{\textbf{Eigenst√§ndigkeitserkl√§rung}}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmssbx10!
+Missing character: There is no § in font cmssbx10!
+Missing character: There is no √ in font cmssbx10!
+Missing character: There is no § in font cmssbx10!
+
+Overfull \hbox (130.94768pt too wide) in paragraph at lines 2--3
+[]\OT1/cmss/bx/n/10 Eigenstndigkeitserklrung 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \normalsize
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...den internen Gebrauch kopiert werden darf.}
+                                                   \newline \newline
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmss10!
+Missing character: There is no § in font cmss10!
+Missing character: There is no √ in font cmss10!
+Missing character: There is no ∂ in font cmss10!
+Missing character: There is no √ in font cmss10!
+Missing character: There is no § in font cmss10!
+Missing character: There is no √ in font cmss10!
+Missing character: There is no ü in font cmss10!
+Missing character: There is no √ in font cmss10!
+Missing character: There is no º in font cmss10!
+Missing character: There is no √ in font cmss10!
+Missing character: There is no § in font cmss10!
+Missing character: There is no √ in font cmss10!
+Missing character: There is no º in font cmss10!
+Missing character: There is no √ in font cmss10!
+Missing character: There is no § in font cmss10!
+Missing character: There is no √ in font cmss10!
+Missing character: There is no º in font cmss10!
+
+Overfull \hbox (51.27785pt too wide) in paragraph at lines 6--7
+[]\OT1/cmss/m/n/10 Hiermit
+ []
+
+
+Overfull \hbox (15.80559pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 ver-
+ []
+
+
+Overfull \hbox (28.1389pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 sichere
+ []
+
+
+Overfull \hbox (14.77779pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 ich,
+ []
+
+
+Overfull \hbox (17.6389pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 dass
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 ich
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 die
+ []
+
+
+Overfull \hbox (16.08337pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 vor-
+ []
+
+
+Overfull \hbox (33.44446pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 liegende
+ []
+
+
+Overfull \hbox (13.4167pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 Ar-
+ []
+
+
+Overfull \hbox (15.8889pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 beit
+ []
+
+
+Overfull \hbox (19.16666pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 selb-
+ []
+
+
+Overfull \hbox (10.77777pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 st-
+ []
+
+
+Overfull \hbox (10.77777pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 st-
+ []
+
+
+Overfull \hbox (17.72224pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 ndig
+ []
+
+
+Overfull \hbox (15.50002pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 und
+ []
+
+
+Overfull \hbox (19.7778pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 ohne
+ []
+
+
+Overfull \hbox (14.44446pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 Be-
+ []
+
+
+Overfull \hbox (33.62505pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 nutzung
+ []
+
+
+Overfull \hbox (13.30557pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 an-
+ []
+
+
+Overfull \hbox (20.88893pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 derer
+ []
+
+
+Overfull \hbox (11.02779pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 als
+ []
+
+
+Overfull \hbox (13.0278pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 der
+ []
+
+
+Overfull \hbox (42.08339pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 angegebe-
+ []
+
+
+Overfull \hbox (14.77779pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 nen
+ []
+
+
+Overfull \hbox (15.19447pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 Hil-
+ []
+
+
+Overfull \hbox (6.3889pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 f-
+ []
+
+
+Overfull \hbox (7.16666pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 s-
+ []
+
+
+Overfull \hbox (17.27779pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 mit-
+ []
+
+
+Overfull \hbox (10.44444pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 tel
+ []
+
+
+Overfull \hbox (22.75003pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 ange-
+ []
+
+
+Overfull \hbox (14.25003pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 fer-
+ []
+
+
+Overfull \hbox (14.61113pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 tigt
+ []
+
+
+Overfull \hbox (22.63893pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 habe.
+ []
+
+
+Overfull \hbox (15.8889pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 Alle
+ []
+
+
+Overfull \hbox (30.7778pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 Stellen,
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 die
+ []
+
+
+Overfull \hbox (28.25005pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 wrtlich
+ []
+
+
+Overfull \hbox (18.3056pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 oder
+ []
+
+
+Overfull \hbox (14.72221pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 sin-
+ []
+
+
+Overfull \hbox (22.55559pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 ngem
+ []
+
+
+Overfull \hbox (34.75006pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 bernom-
+ []
+
+
+Overfull \hbox (17.55557pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 men
+ []
+
+
+Overfull \hbox (19.33334pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 sind,
+ []
+
+
+Overfull \hbox (16.55556pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 sind
+ []
+
+
+Overfull \hbox (11.02779pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 als
+ []
+
+
+Overfull \hbox (25.27779pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 solche
+ []
+
+
+Overfull \hbox (17.55557pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 ken-
+ []
+
+
+Overfull \hbox (23.16667pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 ntlich
+ []
+
+
+Overfull \hbox (38.1945pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 gemacht.
+ []
+
+
+Overfull \hbox (14.05559pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 Die
+ []
+
+
+Overfull \hbox (13.4167pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 Ar-
+ []
+
+
+Overfull \hbox (15.8889pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 beit
+ []
+
+
+Overfull \hbox (9.83333pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 ist
+ []
+
+
+Overfull \hbox (7.55556pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 in
+ []
+
+
+Overfull \hbox (15.16667pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 gle-
+ []
+
+
+Overfull \hbox (19.86113pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 icher
+ []
+
+
+Overfull \hbox (18.3056pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 oder
+ []
+
+
+Overfull \hbox (13.66667pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 hn-
+ []
+
+
+Overfull \hbox (22.25002pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 licher
+ []
+
+
+Overfull \hbox (21.50006pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 Form
+ []
+
+
+Overfull \hbox (20.05559pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 noch
+ []
+
+
+Overfull \hbox (20.77779pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 nicht
+ []
+
+
+Overfull \hbox (11.02779pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 als
+ []
+
+
+Overfull \hbox (13.13892pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 Pr-
+ []
+
+
+Overfull \hbox (33.50006pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 fungsar-
+ []
+
+
+Overfull \hbox (15.8889pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 beit
+ []
+
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 ein-
+ []
+
+
+Overfull \hbox (20.63892pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 gere-
+ []
+
+
+Overfull \hbox (15.61111pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 icht
+ []
+
+
+Overfull \hbox (18.02782pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 wor-
+ []
+
+
+Overfull \hbox (17.55557pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 den.
+ []
+
+
+Overfull \hbox (12.38892pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 Ich
+ []
+
+
+Overfull \hbox (23.00006pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 erklre
+ []
+
+
+Overfull \hbox (19.94446pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 mich
+ []
+
+
+Overfull \hbox (23.9167pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 damit
+ []
+
+
+Overfull \hbox (15.33333pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 ein-
+ []
+
+
+Overfull \hbox (15.80559pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 ver-
+ []
+
+
+Overfull \hbox (34.97226pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 standen,
+ []
+
+
+Overfull \hbox (17.6389pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 dass
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 die
+ []
+
+
+Overfull \hbox (16.08337pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 vor-
+ []
+
+
+Overfull \hbox (33.44446pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 liegende
+ []
+
+
+Overfull \hbox (13.4167pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 Ar-
+ []
+
+
+Overfull \hbox (15.8889pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 beit
+ []
+
+
+Overfull \hbox (7.55556pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 in
+ []
+
+
+Overfull \hbox (13.0278pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 der
+ []
+
+
+Overfull \hbox (54.66672pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 Lehrstuhlbib-
+ []
+
+
+Overfull \hbox (13.11111pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 lio-
+ []
+
+
+Overfull \hbox (18.11115pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 thek
+ []
+
+
+Overfull \hbox (15.50002pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 und
+ []
+
+
+Overfull \hbox (28.58339pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 Daten-
+ []
+
+
+Overfull \hbox (20.02783pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 bank
+ []
+
+
+Overfull \hbox (16.36115pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 auf-
+ []
+
+
+Overfull \hbox (13.22223pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 be-
+ []
+
+
+Overfull \hbox (23.55562pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 wahrt
+ []
+
+
+Overfull \hbox (15.50002pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 und
+ []
+
+
+Overfull \hbox (6.47226pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 fr
+ []
+
+
+Overfull \hbox (14.77779pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 den
+ []
+
+
+Overfull \hbox (10.88889pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 in-
+ []
+
+
+Overfull \hbox (14.80557pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 ter-
+ []
+
+
+Overfull \hbox (14.77779pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 nen
+ []
+
+
+Overfull \hbox (14.44446pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 Ge-
+ []
+
+
+Overfull \hbox (27.88893pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 brauch
+ []
+
+
+Overfull \hbox (28.63895pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 kopiert
+ []
+
+
+Overfull \hbox (17.75003pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 wer-
+ []
+
+
+Overfull \hbox (14.77779pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 den
+ []
+
+
+Overfull \hbox (18.9445pt too wide) in paragraph at lines 6--7
+\OT1/cmss/m/n/10 darf. 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \textsf{Aachen, den \today \newline \newline}
+                                                 
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> Aachen, den \today 
+                              \newline \newline 
+l.9 \textsf{Aachen, den \today \newline \newline}
+                                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (53.47227pt too wide) in paragraph at lines 9--10
+[]\OT1/cmss/m/n/10 Aachen,
+ []
+
+
+Overfull \hbox (14.77779pt too wide) in paragraph at lines 9--10
+\OT1/cmss/m/n/10 den 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \textsf{Lena Maier}
+                        
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+! Emergency stop.
+<*> Eigenstaendigkeitserklaerung.tex
+                                    
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 11 strings out of 493673
+ 241 string characters out of 3141532
+ 54455 words of memory out of 3000000
+ 3457 multiletter control sequences out of 15000+200000
+ 4239 words of font info for 16 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 14i,1n,11p,593b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
