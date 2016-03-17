@@ -1,22 +1,35 @@
 \chapter{Gebäudeauswahl}
 \label{cha:Gebäudeauswahl}
+
+Das Ziel einer Einsparung von 50\% des Primärenergieverbrauchs bezogenauf die Daten der Jahre 2013/2014 bis zum Jahr 2025 zu erreichen birgt eine große Herausforderung. Einen wesentlichen Faktor stellt hierbei die energetische Sanierung von Bestandsbauten dar. Die Auswahl des Beispielgebäudes spielt daher eine wesentliche Rolle. Das Ziel besteht darin, ein Gebäude zu betrachten, welches repräsentativ für den Gebäudebestand der RWTH steht und bei dem das Potential für Optimierungsmaßnahmen bezüglich der Heizenergie besteht. Im Optimalfall ist eine Übertragung der ermittelten Einsparpotentiale auf weitere Gebäude möglich. Im folgenden Abschnitt wird die Herangehensweise der Auswahl beschrieben und das ausgewählte Gebäude vorgestellt.
+ 
+\section{Vorstellung des Gebäudebestands}
+\label{sec:Vorstellung des Gebäudebestands}
+
+Die Auswahl des Gebäudes basiert auf dem Gebäudebestand der RWTH. Der Heizenergieverbrauch der einzelnen Gebäude ist im Energiebericht dargestellt. Die aktuellsten Daten liegen im Energiebericht des Jahres 2014 vor. Die Grundlage der Daten beruht auf Monats- und Jahresabrechnungen des betrachteten Jahres sowie auf einer monatlichen Ablesung an den Zählern des RWTH-Versorgungsnetzes. Aufgrund von fehlenden oder defekten Zählern liegen Daten einzelner Gebäude noch nicht vor. Zudem können die Energiekennwerte von Neubauten aus demselben Jahr nicht miteinbezogen werden. Bezüglich der Heizenergie werden insgesamt 191 Gebäude betrachtet. Dies entspricht einem Wert von 87\% der energierelevanten Nettogrundfläche der Universität. In den kommenden Jahren soll die Aufnahme des gesamten Gebäudebestands erfolgen.\\
+Für die kommenden Jahre wird ein moderater Anstieg des gesamten Heizenergiebedarfs prognostiziert.Dies ist auf die Errichtung von besser gedämmten Gebäude zurückzuführen. Mithilfe des Heizenergieverbrauchskennwerts der einzelnen Gebäude, welcher auf die Nettogesamtfläche bezogen und witterungsbereinigt ist, wird eine Basis zum Vergleich der Effizienz der verschiedenen Gebäude geschaffen. Die unterschiedlichen Rahmenbedingungen, die auf verschiedene Standorte zurückzuführen sind, werden somit eliminiert. Im Rahmen dieser Betrachtung sollte die Nutzungsart der Gebäudes nicht außer Acht gelassen werden. Die Betrachtung der verschiedenen Nutzungsarten erfolgt im Energiebericht durch eine Einteilung der Gebäude gemäß des Bauwerkszuordnungskatalog.\\
+Der auf alle Gebäude der RWTH gemittelte Heizenergieverbrauchskennwert liegt im Jahr 2014 bei 236kWh/m²NGF. Werden die Gebäude bezüglich des Bauwerkszuordnungskatalogs eingeteilt, sind die Gebäude der Kategorie Institutsgebäude V die größten Heizenergieverbraucher. Auch im Verhältnis zu dem in der EnEV festgelegten Vergleichswert ist der relative Unterschied dieser Kategorie am größten. [Energiebericht 2014]
+
 \section{Kriterien der Gebäudeauswahl}
 \label{sec:Kriterien der Gebäudeauswahl}
-
-
-Das ausgewählte Gebäude wird in dem Simulationsprogramm Dymola abgebildet, um Optimierungspotentiale bezüglich der Energieeffizienz herauszufiltern. Gesucht ist daher ein Gebäude mit einem hohem Energieverbrauch pro Nutzungsesamtfläche. Zudem soll das gewählte Gebäude repräsentativ für andere Gebäude der Rheinisch Westfälischen Hochschule Aachen (RWTH) sein.\\
-Die Auswahl des repräsentativen Gebäudes ist auf Basis der vorliegenden Daten getroffen worden. Aufgrund der Betrachtung der Energieeffizienz sind lediglich Gebäude in die Auswahl mit eingeflossen, deren Heizenergieverbrauchskennwert für das Jahr 2013 bzw. 2014 vorliegt. Durch diese Einschränkung reduziert sich der Gebäudebestand auf ca. 200 Objekte. Die Heizenergiekennwerte entstammen den Energieberichten der Jahre 2013 und 2014.\\
+Das ausgewählte Gebäude wird in dem Simulationsprogramm Dymola abgebildet, um Optimierungspotentiale bezüglich der Energieeffizienz herauszufiltern. Gesucht ist daher ein Gebäude mit einem hohem Energieverbrauch pro Nettogrundfläche. Zudem soll das gewählte Gebäude repräsentativ für andere Gebäude der Rheinisch Westfälischen Hochschule Aachen (RWTH) sein, damit die Übertragung von Optimierungspotentialen gewährleistet ist.\\
+Die Auswahl des repräsentativen Gebäudes ist auf Basis der vorliegenden Daten getroffen worden. Aufgrund der Betrachtung der Energieeffizienz sind lediglich Gebäude in die Auswahl mit eingeflossen, deren Heizenergieverbrauchskennwert für das Jahr 2013 bzw. 2014 vorliegt. Durch diese Einschränkung reduziert sich der Gebäudebestand auf ca. 200 Objekte. Die Heizenergiekennwerte entstammen den Energieberichten der Jahre 2013 und 2014. Dies sind zum Zeitpunkt der Anfertigung der Arbeit die aktuellsten Daten und zeitgleich die Basis des Bezugs für die im Projekt geforderte Energieeinsparungen.\\
 \\
 Um eine Übertragung auf andere Gebäude gewährleisten zu können, ist die Auswahl des Gebäudes im Rahmen dieser Bachelorarbeit an vier unterschiedliche Anforderungen geknüpft. \\
-Eine Kriterium stellt das Baujahr dar, welches repräsentativ für eine große Gebäudegruppe der Universität stehen und keinen Ausreißer bilden soll. Die Einteilung der Nichtwohngebäude in Gebäudealtersklassen ist durch baukonstruktive Merkmale geprägt.
-Hierbei spielen auch die rechtlichen Grundlagen eine Rolle, da diese die Einteilung beeinflussen. Die Einführung der Wärmeschutzverordnung, die 1977 in Kraft trat und deren Anforderungen in den Jahren 1982 und 1995 verschärft wurden, spiegelt sich in der Einteilung der Baualtersklassen wieder.\\
+
+Da diese Bachelorarbeit im Rahmen eines Projektes der RWTH erstellt wird, das der flächendeckenden Energieeinsparung dienen soll, wird ein dem Campus der RWTH zugehöriges Gebäude betrachtet. Ein Großteil der Gebäude, die von der Universität genutzt werden, gehört allerdings nicht zum Besitz der Hochschule sondern unterliegt dem Verwaltungsbestand des Bau- und Liegenschaftsbetrieb Nordrhein-Westfalen. \\
+Ein Kriterium bezieht sich auf die Art der Nutzung des Gebäudes. Ziel ist es ein Gebäude zu untersuchen, welches sowohl Labor- als auch Büroflächen aufweist. Durch den Bauwerkzuordnungskatalog sind Nichtwohngebäude unterschiedlichen Kategorien zugeordnet. Dies soll der Vereinfachung des Vergleichs dienen. Die Unterteilung beinhaltet neun Hauptgruppen, welche in der untenstehenden Tabelle aufgeführt sind. 
+Aufgrund des Fehlens von Büro- und Laborflächen in Sportbauten, sowie reinen Lagerstätten, Werkstätten und Beherbergungsstätten wurden diese von der Gebäudeauswahl ausgeschlossen. Teil der Untersuchung waren Gebäude der Kategorie 2 „Gebäude für wissenschaftliche Lehre und Forschung“, die ihrerseits in verschiedene Institutsgebäude, in Gebäude zur Forschung und Untersuchung sowie reine Hörsaalgebäude eingeteilt werden. Eine Vergleichbarkeit mit anderen Gebäuden ist nur im Rahmen einer gleichen Nutzung gewährleistet.\\
+
+Eine weiteres Kriterium stellt das Baujahr dar, welches repräsentativ für eine große Gebäudegruppe der Universität stehen und keinen Ausreißer bilden soll. Die Einteilung der Nichtwohngebäude in Gebäudealtersklassen ist durch baukonstruktive Merkmale geprägt.
+Hierbei spielen auch die rechtlichen Grundlagen eine Rolle, da diese die Einteilung beeinflussen. Die Einführung der Wärmeschutzverordnung, die 1977 in Kraft trat und deren Anforderungen in den Jahren 1982 und 1995 verschärft wurden, spiegelt sich in der Einteilung der Baualtersklassen wieder. In Tabelle 4.1 sind die Baualtersklassen mit den zugehörigen Jahresabschnitten abgebildet. Die Einteilung anhand gesetzlicher Rahmenbedingungen wird insbesondere bei den Klassen V, VI und VII ersichtlich.\\
 Von dem betrachteten Gebäudebestand der RWTH wurden ca. 55\% noch vor der Einführung der ersten Wärmeschutzverordnung gebaut. 
  \ref{tab:Tabelle}. 
 
 \begin{table}[htb]
 \centering
 \caption{Einteilung in Baualtersklassen}\vspace{6pt}
-\label{fig:PCM_Slurry1}
+\label{fig:Baualterklassen Verteilung}
 \begin{tabular}{cr} 
 \hline
 \textbf{Baualterklasse} & \textbf{Baujahr}\\
@@ -36,42 +49,58 @@ IX & 2007 \\
 \label{tab:Tabelle}
 \end{table}
 
-
-Da diese Bachelorarbeit im Rahmen eines Projektes der RWTH erstellt wird, das der flächendeckenden Energieeinsparung dienen soll, wird ein dem Campus der RWTH zugehöriges Gebäude betrachtet. Ein Großteil der Gebäude, die von der Universität genutzt werden, gehört allerdings nicht zum Besitz der Hochschule sondern unterliegt dem Verwaltungsbestand des Bau- und Liegenschaftsbetrieb Nordrhein-Westfalen. \\
-Ein weiteres Kriterium bezieht sich auf die Art der Nutzung des Gebäudes. Ziel ist es ein Gebäude zu untersuchen, welches sowohl Labor- als auch Büroflächen aufweist. Durch den Bauwerkzuordnungskatalog sind Nichtwohngebäude unterschiedlichen Kategorien zugeordnet. Dies soll der Vereinfachung des Vergleichs dienen. Die Unterteilung beinhaltet neun Hauptgruppen, welche in der untenstehenden Tabelle aufgeführt sind. 
-Aufgrund des Fehlens von Büro- und Laborflächen in Sportbauten, sowie reinen Lagerstätten, Werkstätten und Beherbergungsstätten wurden diese von der Gebäudeauswahl ausgeschlossen. Teil der Untersuchung waren Gebäude der Kategorie 2 „Gebäude für wissenschaftliche Lehre und Forschung“, die ihrerseits in verschiedene Institutsgebäude, in Gebäude zur Forschung und Untersuchung sowie reine Hörsaalgebäude eingeteilt werden. Eine Vergleichbarkeit mit anderen Gebäuden ist nur im Rahmen einer gleichen Nutzung gewährleistet.\\
-Die Betrachtung der Heizenergiekennwerte dient dem Herausfiltern eines Gebäudes mit hohem Heizenergieverbrauch. Bei einem geringen Energieverbrauch ist die Möglichkeit Einsparpotentiale aufzudecken weitaus geringer als bei einem Gebäude, welches einen für die Größe des Gebäudes hohen Energieverbrauch aufweist. Daher wird der Heizenergieverbrauchskennwert kWh/m²NGF zur Auswahl des Gebäudes herangezogen. \\
-\\
-Nach Anwendung der Kriterien auf die in der Datenbank vorliegenden erfassten Gebäude der RWTH Aachen kann folgende Analyse durchgeführt werden.  Durch Ausschluss aller Gebäudekategorien des Bauwerkzuordnungskatalogs mit Ausnahme der Kategorie „Gebäude für wissenschaftliche Lehre und Forschung“ wird die Basis für die Vergleichbarkeit der restlichen Gebäude geschaffen. Durch den Gebrauch der Anforderung wird die Liste der zu betrachtenden Gebäude um ca. 40\% verringert. Ein großer Teil der Gebäude, die keine Büroflächen und Laborflächen aufweisen, sind somit bereits aussortiert.\\
-Mithilfe einer prozentualen Angabe über den Anteil von Büro- und Laborfläche, werden die bezüglich dieser Flächen durch das Raster gefallenen Gebäude ebenfalls ausgeschlossen. Gebäude, die als Institutsbauten aufgeführt sind, aber eine kaum nennenswerte Fläche von weniger als 5\% der Nettogesamtfläche mit sowohl Büros und als auch Laboren auffüllen, werden im Rahmen dieser Arbeit ausgeschlossen. Somit reduziert sich die Auswahl auf unter 25\%.\\
-Der gesamte Gebäudebestand der Hochschule ist im Zeitraum von 1660 bis zum heutigen Jahr erbaut worden. Durch die Eingrenzung der Baualtersklassen auf einen Zeitraum von 1950 bis 1978 (entsprechend Klasse III – V), wird ein für die RWTH repräsentatives Gebäude ausgewählt. Die Beschränkung auf diesen Zeitraum dient der Repräsentativität der Auswahl. Der Median der Baujahre liegt im Jahr 1965.  Der Mittelwert der Baujahre für den vorliegenden Bestand der RWTH liegt bei 1965 und somit zwischen der Eingrenzung durch die Baualtersklassen. Durch die Eingrenzung der Baualtersklassen verbleiben lediglich 15,7\% des ursprünglich zugrunde gelegten Bestandes. Durch den Ausschluss von Bauten, die in den nächsten Jahren abgerissen werden sollen, wird die Liste weiterhin um ein Gebäude verkleinert auf 15,1\%. \\
-\\
 \begin{figure}[htb]
 	\centering
-		\includegraphics[width=0.60\textwidth]{Pictures/BAK.png}
+		\includegraphics[width=0.60\textwidth]{Pictures/BaualtersklassenProzentual.png}
 	\caption{Baujahre der Gebäude}
 	\label{fig:Baujahre der Gebäude}
 \end{figure}
+
+Die Betrachtung der Heizenergiekennwerte dient dem Herausfiltern eines Gebäudes mit hohem Heizenergieverbrauch. Bei einem geringen Energieverbrauch ist die Möglichkeit Einsparpotentiale aufzudecken weitaus geringer als bei einem Gebäude, welches einen für die Größe des Gebäudes hohen Energieverbrauch aufweist. Daher wird der Heizenergieverbrauchskennwert kWh/m²NGF zur Auswahl des Gebäudes herangezogen. \\
 \\
-
+Nach Anwendung der Kriterien auf die in der Datenbank vorliegenden erfassten Gebäude der RWTH Aachen kann folgende Analyse durchgeführt werden.  Durch Ausschluss aller Gebäudekategorien des Bauwerkzuordnungskatalogs mit Ausnahme der Kategorie „Gebäude für wissenschaftliche Lehre und Forschung“ wird die Basis für die Vergleichbarkeit der restlichen Gebäude geschaffen. Durch den Gebrauch der Anforderung wird die Liste der zu betrachtenden Gebäude um ca. 40\% verringert. Ein großer Teil der Gebäude, die keine Büroflächen und Laborflächen aufweisen, sind somit bereits aussortiert. Mithilfe einer prozentualen Angabe über den Anteil von Büro- und Laborfläche, werden die bezüglich dieser Flächen durch das Raster gefallenen Gebäude ebenfalls ausgeschlossen. Gebäude, die als Institutsbauten aufgeführt sind, aber eine kaum nennenswerte Fläche von weniger als 5\% der Nettogesamtfläche mit sowohl Büros und als auch Laboren auffüllen, werden im Rahmen dieser Arbeit ausgeschlossen. Somit reduziert sich die Auswahl der Gebäude auf unter 25\%.\\
+Der gesamte Gebäudebestand der Hochschule ist im Zeitraum von 1660 bis zum heutigen Jahr erbaut worden. Durch die Eingrenzung der Baualtersklassen auf einen Zeitraum von 1950 bis 1978 (entsprechend Klasse III – V), wird ein für die RWTH repräsentatives Gebäude ausgewählt. Die Beschränkung auf diesen Zeitraum dient der Repräsentativität der Auswahl. Der Median der Baujahre liegt im Jahr 1965.  Der Mittelwert der Baujahre für den vorliegenden Bestand der RWTH liegt bei 1965 und somit zwischen der Eingrenzung durch die Baualtersklassen. Durch die Eingrenzung der Baualtersklassen verbleiben lediglich 15,7\% des ursprünglich zugrunde gelegten Bestandes. Durch den Ausschluss von Bauten, die in den nächsten Jahren abgerissen werden sollen, wird die Liste weiterhin um ein Gebäude verkleinert auf 15,1\%. \\
+Weitere Gebäude mit einer Nettogrundfläche kleiner als 200m² werden aufgrund ihrer verhältnismäßig geringen Fläche aus der Betrachtung entfernt. Auffällig erscheint die Präsenz von Gebäuden der Kategorie Institutsgebäude V, welche in der gefilterten Verteilung drei der ersten fünf Gebäuden ausmacht. Diese Beobachtung bestätigt das Ergebnis der Energieberichts bezüglich des Energieverbrauchs.\\
+\\
 Wird nun der Heizenergieverbrauchskennwert absteigend sortiert, ergibt sich eine Übersicht auf die größten Verbraucher von Heizenergie, die in Anbetracht von Baujahr und unter Einbeziehung des Vorhandenseins von Büro- und Laborflächen repräsentativ für den Gebäudebestand der RWTH stehen.  \\
-
-
 
 \section{Gebäudesteckbrief}
 \label{sec:Gebäudesteckbrief} 
-Nach der Anwendung der Kriterien auf den vorliegenden Gebäudestand der Hochschule ergibt sich eine Vorauswahl von Gebäuden. \\
-Weitere Gebäude mit einer Nettogrundfläche kleiner als 200m² werden aufgrund ihrer verhältnismäßig geringen Fläche aus der Betrachtung entfernt. Auffällig erscheint die Präsenz von Gebäuden der Kategorie Institutsgebäude V, welche in der gefilterten Verteilung drei der ersten fünf Gebäuden ausmacht. \\
-Einen Aspekt zur Entscheidungsfindung stellt die Bereitschaft des ansässigen Institutes der Organischen Chemie dar. Die Projektleiter des Gesamtprojekts sind nach dessen Bekanntmachung kontaktiert worden, um das Interesse des Instituts Teil dieses Projektes zu werden zu bekunden. Da das Institut in zwei aneinander angrenzenden Bauten untergebracht ist, werden im Folgenden beide Gebäude betrachtet. Der sogenannte OC Turm befindet sich nach Anwendung der Kriterien der Gebäudeauswahl lediglich aufgrund einer Bürofläche von 4,86\% nicht in der zuvor betrachteten engeren Auswahl. Der Vollständigkeit halber wird das Gebäude 2031 als Anbau des Gebäudes 2030 mit einbezogen. 
+Nach der Anwendung der Kriterien auf den vorliegenden Gebäudestand der Hochschule ergibt sich eine Vorauswahl von Gebäuden. \\ Die Präsenz der Gruppe Institutsgebäude V und der von den Gebäuden ausgehende überdurchschnittliche Heizenergieverbrauch legt die Betrachtung eines Chemiegebäudes als Beispielgebäude nahe. Einen weiteren Aspekt zur Entscheidungsfindung stellt die Bereitschaft des ansässigen Institutes der Organischen Chemie dar. Die Projektleiter des Gesamtprojekts sind nach dessen Bekanntmachung kontaktiert worden, um das Interesse des Instituts Teil dieses Projektes zu werden zu bekunden. Da das Institut in zwei aneinander angrenzenden Bauten untergebracht ist, werden im Folgenden beide Gebäude betrachtet. Das Gebäude 2031 befindet sich nach Anwendung der Kriterien der Gebäudeauswahl lediglich aufgrund einer Bürofläche von 4,86\% nicht in der zuvor betrachteten engeren Auswahl. Der Vollständigkeit halber wird das Gebäude 2031 als Anbau des Gebäudes 2030 mit einbezogen.
 \\
 Aufgrund der Nutzung des Gebäudes durch ein Institut aus dem Fachbereich Chemie, ist mit einer vergleichsweise umfangreichen Anlagentechnik zu rechnen. Durch die Nutzung von Chemikalien sind in den Laborbereichen Lüftungsanlagen notwendig, wohingegen in  Büroräumen häufig manuell gelüftet wird. 
 Unter Einbeziehung der Flächendaten der vorliegenden Gebäude ist die getroffene Gebäudeauswahl sehr vorteilhaft, da die Größe beider Gebäude den Aufwand rechtfertigt. \\
+Im Folgenden werden beide Gebäude detailliert vorgestellt.
 \\
-Das Gebäude 2030 wurde im Jahr 1954 gebaut und ist somit der Baualtersklasse III zuzuordnen. Es wird vom Institut Organische Chemie genutzt und weist dadurch eine Vielzahl verschiedener Nutzungsflächen auf. Durch die Nutzung durch ein Institut aus dem Fachbereich Chemie ist das Gebäude den Institutsbauten V zuzuordnen. Die Nutzungsgesamtfläche beträgt 3960 m² und verteilt sich auf insgesamt 4 Stockwerke, welche Bibliotheks-, Büro-, Labor-, Lager- und Werkstattsflächen beinhalten. Der jährliche Verbrauch in MWh liegt in den Jahren 2011 bis 2014 zwischen 1019 und 765, bezogen auf Fläche ergeben sich Werte zwischen 340 und 268 kWh/m²NGF. Obwohl die Heizenergieverbrauchswerte innerhalb des letzten Jahres erheblich reduziert wurden, liegt der flächenspezifische Verbrauchskennwert im Jahr 2014 (268kWh/m²NGF)bei einem hohen Wert. Legt man der Analyse die Daten aus dem Jahr 2013 zugrunde, ist das betrachtete Gebäude bezüglich des Heizenergieverbrauchskennwerts auf Rang 4, in den Daten aus den Energieberichten von 2012 und 2013 sogar auf Rang 3. \\
+Das Gebäude 2030 wurde im Jahr 1954 gebaut und ist somit der Baualtersklasse III zuzuordnen. Es wird vom Institut Organische Chemie genutzt und weist dadurch eine Vielzahl verschiedener Nutzungsflächen auf. Durch die Nutzung durch ein Institut aus dem Fachbereich Chemie ist das Gebäude den Institutsbauten V zuzuordnen. Die Nutzungsgesamtfläche beträgt 3960 m² und verteilt sich auf insgesamt 4 Stockwerke, welche Bibliotheks-, Büro-, Labor-, Lager- und Werkstattsflächen beinhalten. Der größte Teil der Nutzungsfläche wird durch Labore eingenommen. Die einzelnen Etagen sind jeweils 5,1 m hoch. Dies ist auch auf die Anlagentechnik zurückzuführen, die vor allem in den Laboren einen Großteil der Decke schmückt. \\
+Der jährliche Verbrauch in MWh liegt in den Jahren 2011 bis 2014 zwischen 1019 und 765, bezogen auf Fläche ergeben sich Werte zwischen 340 und 268 kWh/m²NGF. Obwohl die Heizenergieverbrauchswerte innerhalb des letzten Jahres erheblich reduziert wurden, liegt der flächenspezifische Verbrauchskennwert im Jahr 2014 (268kWh/m²NGF)bei einem hohen Wert. Legt man der Analyse die Daten aus dem Jahr 2013 zugrunde, ist das betrachtete Gebäude bezüglich des Heizenergieverbrauchskennwerts auf Rang 4, in den Daten aus den Energieberichten von 2012 und 2013 sogar auf Rang 3. \\
 \\
 Das Gebäude 2031 ist ein Anbau an das zuvor beschriebene Gebäudes 2030 und dient dem Institut der Organischen Chemie als Erweiterung. Es wurde im Jahr 1969 an den Mitteltrakt angebaut und entspricht der Baualtersklasse V. Ebenso wie im Mitteltrakt sind verschiedene Nutzungsflächen vorhanden. Diese Flächenarten erstrecken sich über eine Fläche von 4079 m². Der Verbrauch in MWh liegt für den Zeitraum 2009 bis 2014 vor und unterliegt Schwankungen zwischen 745 und 1246. Auch bei diesem Gebäude ist für den letzten Datenwert aus dem Jahr 2014 der geringste Heizenergieverbrauch zuzuordnen. Der flächenspezifische Kennwert des Jahres 2014 liegt bei 254 kWh/m2NGF. 
 Die Bauten liegen am Landoltweg 1 in Aachen und gehören zum Campus Hörn der RWTH. Beide Gebäude sind auf Grundlage des Bauwerkzuordnungskatalogs der Gruppe Institutsgebäude V zugeteilt. Diese entspricht dem Fachbereich Biologie und Chemie. 
 Die Unterschiede der Heizenergiekennwerte bezogen auf den Jahresenergieverbrauch in MWh/a kommen durch die Witterungsbereinigung der Kennwerte zustande.
+
+\begin{table}[htb]
+\centering
+\caption{Heizenergiekennwerte 2030/2031 }\vspace{6pt}
+\label{fig:Heizenergiewerte}
+\begin{tabular}{crcrcrcrcrcrcrcr} 
+\hline
+\textbf{Gebäude} & & \textbf{2011} & \textbf{2012} & \textbf{2013} & \textbf{2014} \\
+
+\hline 
+2030 & \multirow{2}{14mm}{MWh} & 1019 & 1151 & 1187 & 765 \\ 
+2031 &  & 1036 & 985 & 1034 & 745 \\ 
+2030 & \multirow{2}{14mm}{kWh/m²a} & 1019 & 1151 & 1187 & 765  \\ 
+2031 &   & 1036 & 985 & 1034 & 745  \\
+\hline 
+\end{tabular}
+\label{tab:Tabelle}
+\end{table}
+
+\section{Bauphysik}
+\label{sec:Bauphysik}
+Im Rahmen dieser Bachelorarbeit wird der Aspekt der Bauphysik lediglich angerissen. Hierbei wird hauptsächlich auf die Daten des Projektes Anwendungswerkstatt des Instituts E3D eingegangen. Die in dieser Arbeit behandelten Gebäude sind im Rahmen dieses Projektes bereits Betrachtungsobjekt einer statischen Analyse geworden. Im Rahmen der Erstellung eines Energieausweises sind einzelne Aspekte der Bauphysik bereits genauer untersucht worden. Aufgrund einer spärlichen Datenlage ist die Analyse von Annahmen und Vereinfachungen geprägt. Die Betrachtung des Gebäudes erfolgt mithilfe der Software der Firma SolarComputer. Diese ermittlet aus einem Schichtaufbau verschiedener Bauteile die Wärmedurchgangskoeffizienten. So wurde beispielsweise für die Fenster ein Wärmedurchgangskoeffizient von 2,9 W/m²K ermittelt. Auf diese Werte wird zu einem späteren Zeitpunkt nochmals eingegangen. 
+
 
 \section{Anlagentechnik}
 \label{sec:Anlagentechnik}
@@ -81,7 +110,7 @@ Hauptaugenmerk bei der Betrachtung der Energieeffizienz der ausgewählten Gebäu
 Pro Forma werden zwei unterschiedliche Gebäude betrachtet, allerdings erfolgt die Trennung zwischen Gebäude 2030 und 2031  lediglich durch Türen in jedem Geschoss. Beide Gebäude sind mit einem Technikraum im Dachgeschoss ausgestattet. Die Heizungsanlage des Gebäudes 2030 befindet sich im Kellergeschoss des ebenfalls direkt angrenzenden Gebäudes 2020. Die Heizung des Gebäudes 2031 befindet sich im Untergeschoss desselben Gebäudes.\\
 \\
 Heizung 2030\\
-Die Gebäude sind an das Fernwärmenetz der STAWAG Aachen angeschlossen. Die Fernwärme tritt in Form von heißen Wasser im Untergeschoss des Nachbargebäudes 2020 mit einer Temperatur von 100°C ein. Die Versorgung des Gebäudes wird durch eine Ersatzleitung gewährleistet, die im Fall des Ausfalls der eigentlichen Leitung die Versorgung übernimmt. Im Heizungskeller wird die Wärmeenergie der Fernwärmeleitung durch einen Wärmetauscher in das Heizsystems des Gebäude 2030 übertragen. Durch diesen Wärmetauscher tritt ein erster Temperaturverlust auf. Im Kellerbereich wird dann das im Wärmetauscher erhitzte Wasser durch Heizkreispumpen der Statischen Heizung der Nord- sowie der Südseite des Gebäudes zugeführt, sowie der Statischen Heizung in der Bibliothek. Eine weitere Leitung wird den Lüftungsanlagen im Dachgeschoss zugeführt. Auch die Warmwasserbereitung wird durch die Fernwärme energetisch versorgt und auf die Nutzungsbereiche verteilt. \\
+Die Gebäude sind an das Fernwärmenetz der STAWAG Aachen angeschlossen. Die Fernwärme tritt in Form von heißen Wasser im Untergeschoss des Nachbargebäudes 2020 mit einer Temperatur von 100°C ein. Die Versorgung des Gebäudes wird durch eine Ersatzleitung gewährleistet, die im Fall des Ausfalls der eigentlichen Leitung die Versorgung übernimmt. Im Heizungskeller wird die Wärmeenergie der Fernwärmeleitung durch einen Wärmetauscher in das Heizsystems des Gebäude 2030 übertragen. Durch diesen Wärmetauscher tritt ein erster Temperaturverlust auf. Im Kellerbereich wird dann das im Wärmetauscher erhitzte Wasser durch Heizkreispumpen der Statischen Heizung der Nord- sowie der Südseite des Gebäudes zugeführt, sowie der Statischen Heizung in der Bibliothek. Die Übertragung innerhalb der Räume erfolgt über Heizungskörper, die unmittelbar an der Außenwand angebracht sind. Es ist eine dezentrale Regelung möglich, da die Heizkörper in den meisten Fällen mit Thermostatventilen ausgestattet sind. Eine weitere Leitung wird den Lüftungsanlagen im Dachgeschoss zugeführt. Auch die Warmwasserbereitung wird durch die Fernwärme energetisch versorgt und auf die Nutzungsbereiche verteilt. \\
 \\
 Lüftungsanlagen 2030\\
 Das Gebäude 2030 verfügt über zwei zentrale Lüftungsanlagen, die im 3. Obergeschoss des Gebäudes angesiedelt sind. Diese Anlagen übernehmen die Belüftung durch Zuluft sowie die Abführung der gebrauchten Abluft im Laborbereich. Die Versorgung der Bibliothek sowie des Seminarraum erfolgt durch die Zusammenführung von zwei Teilsträngen der Anlagen. Die beiden Hauptanlagen, im weiteren als Anlage 1 und Anlage 2 bezeichnet, sind wie folgt aufgebaut.\\
